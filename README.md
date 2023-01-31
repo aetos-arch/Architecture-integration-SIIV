@@ -28,3 +28,4 @@ En suivant l'ensemble des politiques :
   - EDR/XDR
   - Outils sécurisés pour postes de travail (Coffre fort, navigateur web, messagerie mail...)
   - etc
+- Réalisation de tests de pénétration en boîte noire, grise et blanche.
