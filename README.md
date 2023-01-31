@@ -16,7 +16,7 @@ Nous jouerons donc le rôle à la fois d'un RSSI et d'un ingénieur en cyberséc
 - Outils pour RSSI (base de connaissance, annuaire, ressources pour sensibilisation...)
 
 ### :closed_lock_with_key:	Technique
-- Architecture et intégration d'un réseau complexe sécurisé (cloisonnement réseau, durcissement de tout serveur et mise en place d'outils de sécurité)
+- Architecture et intégration d'un réseau complexe sécurisé
 - Intégration et durcissement des serveurs et postes bureautiques
 - Architecture et intégration d'outils de sécurité
   - AV
