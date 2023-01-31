@@ -11,13 +11,14 @@ Nous jouerons donc le rôle à la fois d'un RSSI et d'un ingénieur en cyberséc
 ### :man_judge: Gouvernance
 - Analyse de risque
 - PSSI (politique de sécurité du SI)
+- Politique de protection des données personnelles 
 - PCA (plan de continuité d'activité)
 - Outils pour RSSI (base de connaissance, annuaire, ressources pour sensibilisation...)
 
 ### :closed_lock_with_key:	Technique
-- Réseau complexe sécurisé (cloisonnement réseau, durcissement des serveurs DNS, DHCP, web et mise en place d'outils de sécurité...)
-- Système sécurisé (durcissement de serveur et poste bureautique)
-- Outils de sécurité
+- Architecture et intégration d'un réseau complexe sécurisé (cloisonnement réseau, durcissement de tout serveur et mise en place d'outils de sécurité)
+- Intégration et durcissement des serveurs et postes bureautiques
+- Architecture et intégration d'outils de sécurité
   - AV
   - FW
   - VPN
