@@ -14,7 +14,7 @@ Nous assurerons donc simultanément les responsabilités d'un RSSI et d'un ingé
 - PCA (plan de continuité d'activité)
 - Outils pour RSSI (base de connaissance, annuaire, ressources pour sensibilisation...)
 
-### :closed_lock_with_key:	Technique
+### :closed_lock_with_key:🛠️	Technique
 - Architecture et intégration d'un réseau complexe sécurisé
 - Intégration et durcissement des serveurs et postes bureautiques
 - Architecture et intégration d'outils de sécurité
