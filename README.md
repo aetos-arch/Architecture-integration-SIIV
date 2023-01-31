@@ -26,5 +26,5 @@ En suivant l'ensemble des politiques :
   - Serveur de sauvegarde
   - SOC PDIS
   - EDR/XDR
-  - Outils sécurisés pour postes de travails (Coffre fort, navigateur web, messagerie mail...)
+  - Outils sécurisés pour postes de travail (Coffre fort, navigateur web, messagerie mail...)
   - etc
