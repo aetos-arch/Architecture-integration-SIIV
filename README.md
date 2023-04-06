@@ -1,4 +1,4 @@
-# :shield: :hospital: Sécurisation d'un SIIV hospitalier
+# :shield: :hospital: Sécurisation d'un SIIV
 Gouvernance, architecture et intégration d'un Système d'Information d'Importance Vitale (SIIV) hospitalier, en respectant les obligations légales et les recommandations de l'ANSSI.
 
 L'objectif de ce projet est de développer un SI sécurisé pour un OIV conformément à l’article 22 de la loi de programmation militaire (loi n° 2013-1168 du 18 décembre 2013).  
